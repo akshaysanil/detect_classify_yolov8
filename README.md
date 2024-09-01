@@ -61,3 +61,7 @@ For augmentation, use:
 
 ```bash
 python augmentation.py
+```
+
+### Project Document
+For more, refer - [Gym_band_detection_and_color_identification_report ](https://github.com/akshaysanil/detect_classify_yolov8/blob/master/Gym%20Band%20Detection%20and%20Color%20Identification%20Project.pdf)
