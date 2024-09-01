@@ -20,13 +20,13 @@ Follow these steps to install and set up the project:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/akshaysanil/detect_classify_yolov8.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd image_detect_identify_color
+cd detect_classify_yolov8
 ```
 
 3. **Set up the environment:**
