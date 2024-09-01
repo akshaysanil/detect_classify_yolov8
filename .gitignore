@@ -9,20 +9,23 @@ run/
 runs/
 
 *.zip
+*.jpg
+*.jpeg
+*.ipynb
 
 detect_classsify.py
 testing_img.py
 testing_img_v2.py
-workout.ipynb
+# workout.ipynb
 yolo_dataset_balancer.py
-
 
 best.pt
 
-croped.jpg
-green.jpg
-hsv.jpg
-images.jpeg
-red.jpeg
-yellow.jpg
-annotated.jpg
+
+# croped.jpg
+# green.jpg
+# hsv.jpg
+# images.jpeg
+# red.jpeg
+# yellow.jpg
+# annotated.jpg
