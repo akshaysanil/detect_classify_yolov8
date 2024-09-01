@@ -55,7 +55,7 @@ pip install -r requirements.txt
 To run the project, use:
 
 ```bash
-python app.py
+python streamlit run app.py
 ```
 For augmentation, use:
 
