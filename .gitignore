@@ -7,6 +7,7 @@ croped_bands/
 dataset/
 run/
 runs/
+backup_files/
 
 *.zip
 *.jpg
